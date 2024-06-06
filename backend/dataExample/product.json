@@ -1,0 +1,488 @@
+[
+    {
+    "name": "Ebook Reader",
+    "price": 149.99,
+    "description": "Slim and lightweight ebook reader with glare-free display.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "public_id": "ebookreader1414",
+        "url": "https://example.com/images/ebookreader1414.jpg"
+      }
+    ],
+    "category": "Books",
+    "seller": "Bookstore",
+    "stock": 20,
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Love reading books on this device, easy on the eyes.",
+        "name": "Noah Johnson"
+      },
+      {
+        "rating": 4.5,
+        "comment": "Convenient for carrying multiple books.",
+        "name": "Isabella Martinez"
+      }
+    ]
+  },
+  {
+    "name": "Wireless Earbuds",
+    "price": 99.99,
+    "description": "True wireless earbuds with immersive sound and secure fit.",
+    "ratings": 4.4,
+    "images": [
+      {
+        "public_id": "wirelessearbuds1515",
+        "url": "https://example.com/images/wirelessearbuds1515.jpg"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "SoundTech",
+    "stock": 30,
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Good sound quality and comfortable to wear.",
+        "name": "Ethan Wilson"
+      },
+      {
+        "rating": 4.5,
+        "comment": "Pairs easily with devices and long battery life.",
+        "name": "Olivia Garcia"
+      }
+    ]
+  },
+  {
+    "name": "Camping Tent",
+    "price": 199.99,
+    "description": "Spacious camping tent with weather-resistant design.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "campingtent1616",
+        "url": "https://example.com/images/campingtent1616.jpg"
+      }
+    ],
+    "category": "Sports",
+    "seller": "OutdoorGear",
+    "stock": 10,
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Great tent for camping trips, easy to set up.",
+        "name": "Mason Davis"
+      },
+      {
+        "rating": 4.5,
+        "comment": "Durable material and spacious interior.",
+        "name": "Ava White"
+      }
+    ]
+  },
+  {
+    "name": "Cookware Set",
+    "price": 149.99,
+    "description": "High-quality cookware set for all your cooking needs.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "public_id": "cookwareset1717",
+        "url": "https://example.com/images/cookwareset1717.jpg"
+      }
+    ],
+    "category": "Home",
+    "seller": "KitchenEssentials",
+    "stock": 20,
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Love this cookware set, cooks evenly.",
+        "name": "Sophia Davis"
+      },
+      {
+        "rating": 4,
+        "comment": "Good quality for the price.",
+        "name": "Henry Martinez"
+      }
+    ]
+  },
+  {
+    "name": "Running Shoes",
+    "price": 129.99,
+    "description": "Lightweight running shoes with cushioned support.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "public_id": "runningshoes1818",
+        "url": "https://example.com/images/runningshoes1818.jpg"
+      }
+    ],
+    "category": "Shoes",
+    "seller": "SportsGear",
+    "stock": 25,
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Great shoes for running, comfortable and durable.",
+        "name": "Ella Davis"
+      },
+      {
+        "rating": 4.5,
+        "comment": "Good grip and support for long runs.",
+        "name": "Jacob Wilson"
+      }
+    ]
+  },
+  {
+    "name": "Bluetooth Speaker",
+    "price": 79.99,
+    "description": "Portable Bluetooth speaker with high-quality sound.",
+    "ratings": 4.3,
+    "images": [
+      {
+        "public_id": "bluetoothspeaker505",
+        "url": "https://example.com/images/bluetoothspeaker505.jpg"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "SoundTech",
+    "stock": 35,
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Good sound quality for the size.",
+        "name": "Ethan Adams"
+      },
+      {
+        "rating": 4.5,
+        "comment": "Compact and easy to carry around.",
+        "name": "Sophie Wilson"
+      }
+    ]
+  },
+  {
+    "name": "Digital Camera",
+    "price": 599.99,
+    "description": "Advanced digital camera for photography enthusiasts.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "public_id": "digitalcamera606",
+        "url": "https://example.com/images/digitalcamera606.jpg"
+      }
+    ],
+    "category": "Cameras",
+    "seller": "PhotoWorld",
+    "stock": 20,
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Excellent camera, produces stunning photos.",
+        "name": "Noah Garcia"
+      },
+      {
+        "rating": 4,
+        "comment": "Great camera but could have more manual controls.",
+        "name": "Lily Moore"
+      }
+    ]
+  },
+  {
+    "name": "Smart TV",
+    "price": 999.99,
+    "description": "Ultra-HD smart TV with streaming apps and voice control.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "public_id": "smarttv707",
+        "url": "https://example.com/images/smarttv707.jpg"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "TechZone",
+    "stock": 15,
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Amazing picture quality and smart features.",
+        "name": "Lucas Brown"
+      },
+      {
+        "rating": 4.5,
+        "comment": "Easy to use and setup.",
+        "name": "Ella Wilson"
+      }
+    ]
+  },
+  {
+    "name": "Wireless Mouse",
+    "price": 39.99,
+    "description": "Ergonomic wireless mouse for comfortable computing.",
+    "ratings": 4.2,
+    "images": [
+      {
+        "public_id": "wirelessmouse808",
+        "url": "https://example.com/images/wirelessmouse808.jpg"
+      }
+    ],
+    "category": "Accesories",
+    "seller": "TechSupplies",
+    "stock": 50,
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Good mouse for everyday use.",
+        "name": "James Anderson"
+      },
+      {
+        "rating": 4.5,
+        "comment": "Comfortable grip and responsive.",
+        "name": "Ava Martinez"
+      }
+    ]
+  },
+  {
+    "name": "Wireless Keyboard",
+    "price": 49.99,
+    "description": "Slim wireless keyboard for efficient typing.",
+    "ratings": 4.3,
+    "images": [
+      {
+        "public_id": "wirelesskeyboard909",
+        "url": "https://example.com/images/wirelesskeyboard909.jpg"
+      }
+    ],
+    "category": "Accesories",
+    "seller": "TechSupplies",
+    "stock": 45,
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Nice keyboard, keys feel smooth.",
+        "name": "Oliver Taylor"
+      },
+      {
+        "rating": 4.5,
+        "comment": "Compact size and works well.",
+        "name": "Mia Johnson"
+      }
+    ]
+  },
+  {
+    "name": "Portable Charger",
+    "price": 29.99,
+    "description": "Compact portable charger for charging devices on-the-go.",
+    "ratings": 4.1,
+    "images": [
+      {
+        "public_id": "portablecharger1010",
+        "url": "https://example.com/images/portablecharger1010.jpg"
+      }
+    ],
+    "category": "Accesories",
+    "seller": "TechGadgets",
+    "stock": 60,
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Convenient charger, good for emergencies.",
+        "name": "William Harris"
+      },
+      {
+        "rating": 4.5,
+        "comment": "Works well and charges devices quickly.",
+        "name": "Amelia Davis"
+      }
+    ]
+  },
+  {
+    "name": "Smart Home Speaker",
+    "price": 129.99,
+    "description": "Voice-controlled smart speaker with built-in virtual assistant.",
+    "ratings": 4.4,
+    "images": [
+      {
+        "public_id": "smarthomespeaker1111",
+        "url": "https://example.com/images/smarthomespeaker1111.jpg"
+      }
+    ],
+    "category": "Home",
+    "seller": "SmartTech",
+    "stock": 30,
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Great sound quality and useful features.",
+        "name": "Harper Wilson"
+      },
+      {
+        "rating": 4.5,
+        "comment": "Helpful assistant for controlling smart devices.",
+        "name": "Benjamin Martinez"
+      }
+    ]
+  },
+  {
+    "name": "Laptop Pro",
+    "price": 1299.99,
+    "description": "A high-end laptop with powerful performance and sleek design.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "public_id": "laptoppro123",
+        "url": "https://example.com/images/laptoppro123.jpg"
+      }
+    ],
+    "category": "Laptop",
+    "seller": "TechStore",
+    "stock": 25,
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Amazing laptop, very fast and great build quality.",
+        "name": "John Doe"
+      },
+      {
+        "rating": 4,
+        "comment": "Good laptop but a bit pricey.",
+        "name": "Jane Smith"
+      }
+    ]
+  },
+  {
+    "name": "Smartphone X",
+    "price": 799.99,
+    "description": "The latest flagship smartphone with advanced features.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "public_id": "smartphonex456",
+        "url": "https://example.com/images/smartphonex456.jpg"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "TechGadget",
+    "stock": 50,
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Amazing phone, love it!",
+        "name": "Alice Johnson"
+      },
+      {
+        "rating": 4.5,
+        "comment": "Great features but battery life could be better.",
+        "name": "Bob Brown"
+      }
+    ]
+  },
+  {
+    "name": "Camera Deluxe",
+    "price": 899.99,
+    "description": "Professional-grade camera with outstanding image quality.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "cameradeluxe789",
+        "url": "https://example.com/images/cameradeluxe789.jpg"
+      }
+    ],
+    "category": "Cameras",
+    "seller": "PhotoTech",
+    "stock": 15,
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Best camera I've ever used!",
+        "name": "Emily Davis"
+      },
+      {
+        "rating": 4,
+        "comment": "Great camera but a bit bulky.",
+        "name": "Charlie Wilson"
+      }
+    ]
+  },
+  {
+    "name": "Gaming Console",
+    "price": 399.99,
+    "description": "Next-gen gaming console for immersive gaming experiences.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "public_id": "gamingconsole101",
+        "url": "https://example.com/images/gamingconsole101.jpg"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "GameZone",
+    "stock": 30,
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Awesome console, love playing games on it!",
+        "name": "David White"
+      },
+      {
+        "rating": 4.5,
+        "comment": "Great graphics but could use more exclusive titles.",
+        "name": "Sophia Martinez"
+      }
+    ]
+  },
+  {
+    "name": "Wireless Headphones",
+    "price": 149.99,
+    "description": "Premium wireless headphones with noise-cancelling technology.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "public_id": "wirelessheadphones202",
+        "url": "https://example.com/images/wirelessheadphones202.jpg"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "SoundStore",
+    "stock": 40,
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Excellent sound quality and comfortable to wear.",
+        "name": "Emma Thompson"
+      },
+      {
+        "rating": 4,
+        "comment": "Good headphones but could have better battery life.",
+        "name": "Michael Harris"
+      }
+    ]
+  },
+  {
+    "name": "Smartwatch",
+    "price": 299.99,
+    "description": "Sleek and stylish smartwatch with health and fitness tracking features.",
+    "ratings": 4.4,
+    "images": [
+      {
+        "public_id": "smartwatch303",
+        "url": "https://example.com/images/smartwatch303.jpg"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "GadgetHub",
+    "stock": 20,
+    "reviews": [
+      {
+        "rating": 4.5,
+        "comment": "Great smartwatch, love the fitness tracking features.",
+        "name": "Olivia Clark"
+      },
+      {
+        "rating": 4,
+        "comment": "Nice design but could have more apps.",
+        "name": "Daniel Lee"
+      }
+    ]
+  }
+]
