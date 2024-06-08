@@ -48,14 +48,14 @@ class APIFeatures {
     //     }
     // });
 
-    console.log(queryCopy);
+    // console.log(queryCopy);
 
     let queryPar = JSON.stringify(queryCopy);
     queryPar = queryPar.replace(/\b(gt|gte|lt|lte)\b/g,match => `$${match}`);
 
     this.query = this.query.find(JSON.parse(queryPar));
 
-    console.log(queryPar)
+    // console.log(queryPar)
 
     return this;
   }

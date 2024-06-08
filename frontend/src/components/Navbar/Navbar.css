@@ -1,0 +1,23 @@
+
+.custom-navbar{
+    background-color: #4C52D8;
+}
+
+.div-logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    gap: 34px;
+    width: 305px;
+    height: 125px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.logo-icon {
+    fill: white;
+    height: 4em ;
+}

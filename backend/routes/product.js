@@ -15,7 +15,7 @@ const { isAuthenticated, authorizedRoles } = require("../middleware/auth"); //de
 
 // router.route('/product/new').post(newProduct);
 router.post("/product/new", isAuthenticated,authorizedRoles('user'),newProduct);
-router.get("/products", isAuthenticated,authorizedRoles('user'),getProducts);
+router.get("/products",getProducts);
 router.get("/product/:id",isAuthenticated,authorizedRoles('user'), getProduct);
 router.put("/product/:id",isAuthenticated,authorizedRoles('user'), updateProduct);
 router.delete("/product/:id",isAuthenticated,authorizedRoles('user'), deleteProduct);
