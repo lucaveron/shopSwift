@@ -1,11 +1,8 @@
-
-import "./Home.css"
+import "./Home.css";
+import Slider from "./Slider/Slider";
 
 export const Home = () => {
-    return (
-        <div className="home-container">
-        <h1>Welcome to ShopSwift</h1>
-        <p>Your one-stop shop for everything!</p>
-      </div>
-    )
-}
+  return <div className="home-container d-flex justify-content-center align-content-center">
+    <Slider/>
+  </div>;
+};
